@@ -1,2 +1,2 @@
 # lucify
-Django &amp; Spotify integration app
+Spotify integration app using Django
